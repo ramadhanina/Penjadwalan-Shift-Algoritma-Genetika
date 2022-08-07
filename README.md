@@ -1,0 +1,1 @@
+# Penjadwalan-Shift-Algoritma-Genetika
