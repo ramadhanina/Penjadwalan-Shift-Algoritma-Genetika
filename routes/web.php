@@ -14,7 +14,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('u_client/client_password');
+    // return view('u_client/client_register');
+    // return view('u_client/client_login');
+    // return view('u_client/client_password');
+
+    // return view('u_admin/admin_login');
+    // return view('u_admin/admin_register');
+    // return view('u_admin/admin_password');
+    return view('u_admin/admin_dashboard');
+
 });
 
 Route::middleware([

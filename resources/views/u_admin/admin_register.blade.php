@@ -85,8 +85,8 @@
               <!-- Register-->
               <div class="d-flex col-lg-4 align-items-center auth-bg px-2 p-lg-5">
                 <div class="col-12 col-sm-8 col-md-6 col-lg-12 px-xl-2 mx-auto">
-                  <h2 class="card-title fw-bold mb-1">Adventure starts here 🚀</h2>
-                  <p class="card-text mb-2">Make your app management easy and fun!</p>
+                  <h2 class="card-title fw-bold mb-1">Create your account here 🚀</h2>
+                  <p class="card-text mb-2">Make your schedule easy!</p>
                   <form class="auth-register-form mt-2" action="index.html" method="POST">
                     <div class="mb-1">
                       <label class="form-label" for="register-username">Username</label>
@@ -111,10 +111,10 @@
                     <button class="btn btn-primary w-100" tabindex="5">Sign up</button>
                   </form>
                   <p class="text-center mt-2"><span>Already have an account?</span><a href="auth-login-cover.html"><span>&nbsp;Sign in instead</span></a></p>
-                  <div class="divider my-2">
+                  {{-- <div class="divider my-2">
                     <div class="divider-text">or</div>
                   </div>
-                  <div class="auth-footer-btn d-flex justify-content-center"><a class="btn btn-facebook" href="#"><i data-feather="facebook"></i></a><a class="btn btn-twitter white" href="#"><i data-feather="twitter"></i></a><a class="btn btn-google" href="#"><i data-feather="mail"></i></a><a class="btn btn-github" href="#"><i data-feather="github"></i></a></div>
+                  <div class="auth-footer-btn d-flex justify-content-center"><a class="btn btn-facebook" href="#"><i data-feather="facebook"></i></a><a class="btn btn-twitter white" href="#"><i data-feather="twitter"></i></a><a class="btn btn-google" href="#"><i data-feather="mail"></i></a><a class="btn btn-github" href="#"><i data-feather="github"></i></a></div> --}}
                 </div>
               </div>
               <!-- /Register-->

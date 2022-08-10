@@ -104,12 +104,20 @@
                         <input class="form-control form-control-merge" id="reset-password-confirm" type="password" name="reset-password-confirm" placeholder="············" aria-describedby="reset-password-confirm" tabindex="2"/><span class="input-group-text cursor-pointer"><i data-feather="eye"></i></span>
                       </div>
                     </div>
+                   
                     <button class="btn btn-primary w-100" tabindex="3">Set New Password</button>
+                    <div> <br> </br></div>
+                    <div class="mb-1">
+                      <label class="form-label" for="register-email">Email</label>
+                      <input class="form-control" id="register-email" type="text" name="register-email" placeholder="john@example.com" aria-describedby="register-email" tabindex="2"/>
+                    </div>
+                    <button class="btn btn-primary w-100" tabindex="3">Reset Password</button>
                   </form>
                   <p class="text-center mt-2"><a href="auth-login-cover.html"><i data-feather="chevron-left"></i> Back to login</a></p>
                 </div>
               </div>
               <!-- /Reset password-->
+              
             </div>
           </div>
         </div>
